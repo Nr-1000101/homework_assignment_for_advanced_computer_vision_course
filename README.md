@@ -1,0 +1,2 @@
+# homework_assignment_for_advanced_computer_vision_course
+Playing with images
